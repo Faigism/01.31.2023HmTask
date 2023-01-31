@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..exe
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..deps.json
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..runtimeconfig.json
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..runtimeconfig.dev.json
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..dll
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\bin\Debug\netcoreapp3.1\AccessModifier2..pdb
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..csproj.AssemblyReference.cache
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..AssemblyInfoInputs.cache
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..AssemblyInfo.cs
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..dll
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..pdb
+C:\Users\faiqi\source\repos\AccessModifier2\AccessModifier2\obj\Debug\netcoreapp3.1\AccessModifier2..genruntimeconfig.cache

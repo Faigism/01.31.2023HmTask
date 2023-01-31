@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.exe
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.deps.json
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.json
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.dev.json
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.dll
+C:\Users\faiqi\source\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.pdb
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfo.cs
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.dll
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.pdb
+C:\Users\faiqi\source\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.genruntimeconfig.cache

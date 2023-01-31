@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.exe
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.deps.json
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.runtimeconfig.json
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.runtimeconfig.dev.json
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.dll
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\bin\Debug\netcoreapp3.1\Task2Practise.pdb
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.AssemblyInfo.cs
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.dll
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.pdb
+C:\Users\faiqi\source\repos\Task2Practise\Task2Practise\obj\Debug\netcoreapp3.1\Task2Practise.genruntimeconfig.cache
